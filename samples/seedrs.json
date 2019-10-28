@@ -1,0 +1,33 @@
+[
+   "https://www.seedrs.com/sign_in", 
+   [
+      [
+         [
+            "utf8", 
+            "\u2713"
+         ], 
+         [
+            "authenticity_token", 
+            "wgSfccWceGye+M/6IoYOad/qGDEeXoOVddh+/0oseWU="
+         ], 
+         [
+            "session[email]", 
+            "USER"
+         ], 
+         [
+            "session[password]", 
+            "PASS"
+         ], 
+         [
+            "session[remember_me]", 
+            "0"
+         ], 
+         [
+            "commit", 
+            "Sign in"
+         ]
+      ], 
+      "https://www.seedrs.com/sign_in", 
+      "POST"
+   ]
+]
