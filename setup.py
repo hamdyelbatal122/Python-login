@@ -1,6 +1,5 @@
 from setuptools import setup
 
-
 setup(
     name='loginform',
     version='1.2.0',
