@@ -1,6 +1,6 @@
 loginform
 =========
-
+#
 .. image:: https://secure.travis-ci.org/scrapy/loginform.png?branch=master
    :target: http://travis-ci.org/scrapy/loginform
 
