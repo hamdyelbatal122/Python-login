@@ -38,7 +38,7 @@ And it is possible to use it as a tool to quickly debug a login form::
     payload:
     - authenticity_token: FQgPiKd1waDL+pycPH8IGutirTnP69SiZgm0zXwn+VQ=
     - login: john
-    - password: secret
+    - password: 
 
 
 Testing
