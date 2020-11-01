@@ -7,8 +7,6 @@ loginform
 .. image:: https://img.shields.io/codecov/c/github/scrapy/loginform/master.svg
    :target: http://codecov.io/github/scrapy/loginform?branch=master
    :alt: Coverage report
-
-
 loginform is a library for filling HTML login forms given the login url,
 username & password. Which form and fields to fill are inferred automatically.
 
@@ -16,7 +14,6 @@ It's implemented on top of `lxml form filling`_, and thus depends on lxml.
 
 Usage
 -----
-
 Usage is very simple and best illustrated with an example::
 
     >>> from loginform import fill_login_form
