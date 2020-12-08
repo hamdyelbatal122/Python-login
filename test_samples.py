@@ -6,14 +6,7 @@ import optparse
 from loginform import fill_login_form
 
 
-def parse_opts():
-    op = optparse.OptionParser(usage="%prog [-w NAME] url | -l")
-    op.add_option("-w", dest="write", metavar="NAME", help="write new sample")
-    op.add_option("-l", dest="list", action="store_true", help="list all samples")
-    opts, args = op.parse_args()
-    if not opts.list and len(args) != 1:
-        op.error("incorrect number of args")
-    return opts, args
+
 
 
 def list_samples():
