@@ -37,7 +37,6 @@ And it is possible to use it as a tool to quickly debug a login form::
     - login: john
     - password: secret
 
-
 Testing
 -------
 
